@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.rayvv.com/"
+    "link": "https://blog.rayvv.cn/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.rayvv.com/"
+    "link": "https://cloud.rayvv.cn/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.rayvv.com/"
+    "link": "https://music.rayvv.cn/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.rayvv.com/"
+    "link": "https://nav.rayvv.cn/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.rayvv.com/"
+    "link": "https://hot.rayvv.cn/"
   },
   {
     "icon": "Bug",
     "name": "API接口",
-    "link": "https://api.rayvv.com/"
+    "link": "https://api.rayvv.cn/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.rayvv.com/"
+    "link": "https://status.rayvv.cn/"
   }
 ]
